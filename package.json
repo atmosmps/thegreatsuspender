@@ -1,7 +1,7 @@
 {
-  "name": "thegreatsuspender-notrack",
-  "version": "0.0.0",
-  "description": "A chrome extension for suspending all tabs to free up memory. Without analytics tracking.",
+  "name": "thegreatsuspender",
+  "version": "1.0.0",
+  "description": "A chrome extension for suspending all tabs to free up memory. Privacy-oriented with no analytics tracking.",
   "main": "",
   "scripts": {
     "build": "grunt",
@@ -24,10 +24,10 @@
     "privacy",
     "notrack"
   ],
-  "author": "aciidic",
+  "author": "atmosmps",
   "license": "GPLv2",
   "bugs": {
-    "url": "https://github.com/aciidic/thegreatsuspender/issues"
+    "url": "https://github.com/atmosmps/thegreatsuspender/issues"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
